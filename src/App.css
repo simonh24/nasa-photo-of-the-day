@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/006/170/271/large/alena-aenami-lights1k1.jpg?1496536109);
+}
